@@ -13,7 +13,7 @@ class App extends React.Component {
   }
 
   componentDidMount(){
-    fetch("http://api.giphy.com/v1/gifs/trending?api_key=suCTvQWQwFR0MH7hyapNQzpR7MS7Ur4T&limit=10")
+    fetch("https://api.giphy.com/v1/gifs/trending?api_key=suCTvQWQwFR0MH7hyapNQzpR7MS7Ur4T&limit=10")
     .then(response => response.json())
     .then(data => {
       console.log(data);
