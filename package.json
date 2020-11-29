@@ -2,7 +2,7 @@
   "name": "giphy-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://caitlincraw.github.io/giphy-dashboard",
+  "homepage": "https://caitlincraw.github.io/giphy-dashboard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
