@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/giphy-dashboard/static/css/main.e2d72e9d.chunk.css",
+    "main.js": "/giphy-dashboard/static/js/main.f38f0395.chunk.js",
+    "main.js.map": "/giphy-dashboard/static/js/main.f38f0395.chunk.js.map",
+    "runtime-main.js": "/giphy-dashboard/static/js/runtime-main.882e9469.js",
+    "runtime-main.js.map": "/giphy-dashboard/static/js/runtime-main.882e9469.js.map",
+    "static/js/2.631a642d.chunk.js": "/giphy-dashboard/static/js/2.631a642d.chunk.js",
+    "static/js/2.631a642d.chunk.js.map": "/giphy-dashboard/static/js/2.631a642d.chunk.js.map",
+    "index.html": "/giphy-dashboard/index.html",
+    "static/css/main.e2d72e9d.chunk.css.map": "/giphy-dashboard/static/css/main.e2d72e9d.chunk.css.map",
+    "static/js/2.631a642d.chunk.js.LICENSE.txt": "/giphy-dashboard/static/js/2.631a642d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882e9469.js",
+    "static/js/2.631a642d.chunk.js",
+    "static/css/main.e2d72e9d.chunk.css",
+    "static/js/main.f38f0395.chunk.js"
+  ]
+}
